@@ -1,0 +1,27 @@
+.filters{
+    padding: 20px 30px;
+}
+h4{
+    font-size: 20px;
+}
+.filter-type{
+    margin-bottom: 20px;
+}
+.filters Button{
+    display: block;
+    margin: 0 auto;
+}
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px){
+.filters{
+    padding: 10px;
+    width: 100%;
+    cursor: pointer;
+}
+h4{
+    font-size: 16px;
+}
+.filter-type{
+    margin-bottom: 15px;
+}
+}
+
